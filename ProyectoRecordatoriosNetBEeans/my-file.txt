@@ -1,0 +1,2 @@
+Preservativo,Tilin,Hormonal,Alerta,false,2024-05-11,16:00,false
+Preservativo,Tilin,Hormonal,Correo,false,2024-05-10,16:25,true
